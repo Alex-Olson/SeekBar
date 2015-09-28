@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SeekBar</string>
+
+    <string name="square_display">Display a square</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_square">SquareActivity</string>
+
+    <string name="try_square">Try to tap the square</string>
+</resources>
